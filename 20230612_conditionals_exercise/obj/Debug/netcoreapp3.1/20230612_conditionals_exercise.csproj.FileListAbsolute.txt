@@ -1,0 +1,14 @@
+C:\Users\pauli\source\repos\20230612_conditionals_exercise\bin\Debug\netcoreapp3.1\20230612_conditionals_exercise.exe
+C:\Users\pauli\source\repos\20230612_conditionals_exercise\bin\Debug\netcoreapp3.1\20230612_conditionals_exercise.deps.json
+C:\Users\pauli\source\repos\20230612_conditionals_exercise\bin\Debug\netcoreapp3.1\20230612_conditionals_exercise.runtimeconfig.json
+C:\Users\pauli\source\repos\20230612_conditionals_exercise\bin\Debug\netcoreapp3.1\20230612_conditionals_exercise.runtimeconfig.dev.json
+C:\Users\pauli\source\repos\20230612_conditionals_exercise\bin\Debug\netcoreapp3.1\20230612_conditionals_exercise.dll
+C:\Users\pauli\source\repos\20230612_conditionals_exercise\bin\Debug\netcoreapp3.1\20230612_conditionals_exercise.pdb
+C:\Users\pauli\source\repos\20230612_conditionals_exercise\obj\Debug\netcoreapp3.1\20230612_conditionals_exercise.csproj.AssemblyReference.cache
+C:\Users\pauli\source\repos\20230612_conditionals_exercise\obj\Debug\netcoreapp3.1\20230612_conditionals_exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\source\repos\20230612_conditionals_exercise\obj\Debug\netcoreapp3.1\20230612_conditionals_exercise.AssemblyInfoInputs.cache
+C:\Users\pauli\source\repos\20230612_conditionals_exercise\obj\Debug\netcoreapp3.1\20230612_conditionals_exercise.AssemblyInfo.cs
+C:\Users\pauli\source\repos\20230612_conditionals_exercise\obj\Debug\netcoreapp3.1\20230612_conditionals_exercise.csproj.CoreCompileInputs.cache
+C:\Users\pauli\source\repos\20230612_conditionals_exercise\obj\Debug\netcoreapp3.1\20230612_conditionals_exercise.dll
+C:\Users\pauli\source\repos\20230612_conditionals_exercise\obj\Debug\netcoreapp3.1\20230612_conditionals_exercise.pdb
+C:\Users\pauli\source\repos\20230612_conditionals_exercise\obj\Debug\netcoreapp3.1\20230612_conditionals_exercise.genruntimeconfig.cache
