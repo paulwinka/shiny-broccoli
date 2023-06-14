@@ -1,0 +1,14 @@
+C:\Users\pauli\repos\shiny-broccoli\20230614_control_flows\bin\Debug\netcoreapp3.1\20230614_control_flows.exe
+C:\Users\pauli\repos\shiny-broccoli\20230614_control_flows\bin\Debug\netcoreapp3.1\20230614_control_flows.deps.json
+C:\Users\pauli\repos\shiny-broccoli\20230614_control_flows\bin\Debug\netcoreapp3.1\20230614_control_flows.runtimeconfig.json
+C:\Users\pauli\repos\shiny-broccoli\20230614_control_flows\bin\Debug\netcoreapp3.1\20230614_control_flows.runtimeconfig.dev.json
+C:\Users\pauli\repos\shiny-broccoli\20230614_control_flows\bin\Debug\netcoreapp3.1\20230614_control_flows.dll
+C:\Users\pauli\repos\shiny-broccoli\20230614_control_flows\bin\Debug\netcoreapp3.1\20230614_control_flows.pdb
+C:\Users\pauli\repos\shiny-broccoli\20230614_control_flows\obj\Debug\netcoreapp3.1\20230614_control_flows.csproj.AssemblyReference.cache
+C:\Users\pauli\repos\shiny-broccoli\20230614_control_flows\obj\Debug\netcoreapp3.1\20230614_control_flows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\repos\shiny-broccoli\20230614_control_flows\obj\Debug\netcoreapp3.1\20230614_control_flows.AssemblyInfoInputs.cache
+C:\Users\pauli\repos\shiny-broccoli\20230614_control_flows\obj\Debug\netcoreapp3.1\20230614_control_flows.AssemblyInfo.cs
+C:\Users\pauli\repos\shiny-broccoli\20230614_control_flows\obj\Debug\netcoreapp3.1\20230614_control_flows.csproj.CoreCompileInputs.cache
+C:\Users\pauli\repos\shiny-broccoli\20230614_control_flows\obj\Debug\netcoreapp3.1\20230614_control_flows.dll
+C:\Users\pauli\repos\shiny-broccoli\20230614_control_flows\obj\Debug\netcoreapp3.1\20230614_control_flows.pdb
+C:\Users\pauli\repos\shiny-broccoli\20230614_control_flows\obj\Debug\netcoreapp3.1\20230614_control_flows.genruntimeconfig.cache
