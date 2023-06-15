@@ -6,12 +6,15 @@ namespace _20230614_control_flows
     {
         private static void Main(string[] args)
         {
+            int passwordLength = 10;
+            var buffer = new char[passwordLength];
             var rand = new Random();
-            for (var i = 0; i < 25; i++)
+            for (var i = 0; i < passwordLength; i++)
             {
-                Console.Write((char)rand.Next(97, 122));
+                buffer[i] = (char)('a' + rand.Next(0, 25));
             }
-            var password = new string()
+            var password = new string(buffer);
+            Console.WriteLine(password);
         }
     }
 }
