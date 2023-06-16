@@ -8,7 +8,6 @@ C:\Users\pauli\repos\shiny-broccoli\MatchGame\obj\Debug\netcoreapp3.1\MatchGame.
 C:\Users\pauli\repos\shiny-broccoli\MatchGame\obj\Debug\netcoreapp3.1\MainWindow.g.cs
 C:\Users\pauli\repos\shiny-broccoli\MatchGame\obj\Debug\netcoreapp3.1\App.g.cs
 C:\Users\pauli\repos\shiny-broccoli\MatchGame\obj\Debug\netcoreapp3.1\MatchGame_MarkupCompile.cache
-C:\Users\pauli\repos\shiny-broccoli\MatchGame\obj\Debug\netcoreapp3.1\MatchGame_MarkupCompile.lref
 C:\Users\pauli\repos\shiny-broccoli\MatchGame\obj\Debug\netcoreapp3.1\MainWindow.baml
 C:\Users\pauli\repos\shiny-broccoli\MatchGame\obj\Debug\netcoreapp3.1\MatchGame.g.resources
 C:\Users\pauli\repos\shiny-broccoli\MatchGame\obj\Debug\netcoreapp3.1\MatchGame.GeneratedMSBuildEditorConfig.editorconfig
